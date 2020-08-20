@@ -6,13 +6,12 @@
     --color-light-snow: #FFF9FB;
     
     font-family: "Baloo Tamma 2";
-    font-size: 40%;
+    font-size: 60%;
 }
 
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
 html,
@@ -29,9 +28,9 @@ body {
 
 .container {
     display: flex;
-    flex-direction: column;
     height: 100vh;
     width: 100vw;
+    flex-direction: column;
     align-items: center;
 }
 

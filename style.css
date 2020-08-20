@@ -46,7 +46,7 @@ body {
     justify-items: center;
     justify-self: center;
     
-    border-radius: 1px;
+    border-radius: 20px;
 }
 
 .container #clock span {
@@ -66,7 +66,7 @@ body {
     cursor: pointer;
     outline: none;
     border: 0;
-    border-radius: 1px;
+    border-radius: 10px;
     background: var(--color-button);
 
     margin: 0.2rem;
